@@ -1,0 +1,29 @@
+============Grid System============
+
+12
+
+Bootstrap Color:
+
+1. success
+2. info
+3. warning
+4. danger
+5. dark
+6. light
+7. primary
+8. secondary
+
+col-1
+col-2
+col-3
+col-5
+.
+.
+.
+.
+col-12
+
+col-sm
+col-md
+col-lg
+col-xl
